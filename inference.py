@@ -33,6 +33,5 @@ for x in ner_results:
     print(x["entity"], x["word"])
     # print(type(x))
 
-print("DONE")
 
 # %%
