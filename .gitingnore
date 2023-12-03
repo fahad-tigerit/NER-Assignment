@@ -1,2 +1,2 @@
 # ignore model files
-*.safetensors
+ner_model/model.safetensors
